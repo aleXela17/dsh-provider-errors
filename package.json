@@ -1,0 +1,24 @@
+{
+  "name": "dsh-provider-errors",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Rewrite provider failures in DeepSeek Harness into clear, actionable messages",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "cordis",
+    "provider",
+    "errors"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleXela17/dsh-provider-errors.git"
+  }
+}
